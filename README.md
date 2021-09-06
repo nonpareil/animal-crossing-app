@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+This project is a game made using React where you enter as many Animal Crossing villager names as you can remember in 2 minutes.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
